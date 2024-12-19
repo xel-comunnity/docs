@@ -51,7 +51,7 @@ export default function Contents(){
         {
             'id':5,
             'title': 'Xel-Simple-Dock',
-            'shortDescription': 'Simple Logger Library based on Monolog',
+            'shortDescription': 'Simple container dependency injection based on PHP-DI for core',
             'link': 'https://github.com/xel-comunnity/Xel-Simple-Dock'
         },
 

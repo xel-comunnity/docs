@@ -13,6 +13,7 @@ export default function AboutXel() {
     { name: "Angga Cipta", role: "Tester" },
     { name: "Ranu", role: " Frontend Development" },
     { name: "Bagus Untoro", role: "Documentation" },
+    { name: "Mohammad Robihul Mufid, S.ST., M.Tr.Kom.", role: "Mentor" },    
   ];
 
   //  Animation  Hook for overview
